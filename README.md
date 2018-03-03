@@ -27,4 +27,4 @@ while (current) {
 ```
 
 <b><u>Whiteboard</u></b>:<br>
-![alt text](./images.401.whiteboard-01.jpg)
+![alt text](./images/401.whiteboard-1.jpg)
